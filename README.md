@@ -10,4 +10,9 @@ In some cases an organisation will take the money and disappear.As a result, Alp
 
 I was approached to help Beks learn about Neural Network Model and how to design and train these models using the python tensorflow library.
 
-This project is out to create a robust Deep Neural Network capable of interpreting large complex datasets.These models will help Beks and Alphabet soup determine which organizations should recieve donations.
+This project is out to create a robust Deep Neural Network capable of interpreting large complex datasets.These models will he
+
+## Sources And Tools
+
+Data source: It is a CSV file with more than 34000 organizations.
+Technologies:Matplotlib,visual studio code,python tensorflow library,pandasand nunpy.
