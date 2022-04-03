@@ -27,7 +27,7 @@ Technologies:Matplotlib,visual studio code,python tensorflow library,pandasand n
 2. What variable(s) are considered to be the features for your model?
    The IS_SUCCESSFUL column is the feature chosen for this dataset.
 
-![Is_successful]()
+![Is_successful](https://github.com/femiimam001/Neural_Network_Charity_Analysis/blob/main/Resources/Is-_successful.PNG)
 
 3. What variable(s) are neither targets nor features, and should be removed from the input data?
    The EIN and NAME columns will not increase the accuracy of the model and can be removed to improve code efficiency.
