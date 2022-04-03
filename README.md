@@ -32,7 +32,7 @@ Technologies:Matplotlib,visual studio code,python tensorflow library,pandasand n
 3. What variable(s) are neither targets nor features, and should be removed from the input data?
    The EIN and NAME columns will not increase the accuracy of the model and can be removed to improve code efficiency.
 
-![Ein_name]()
+![Ein_name](https://github.com/femiimam001/Neural_Network_Charity_Analysis/blob/main/Resources/Ein_name.PNG)
 
 # Compiling, Training, and Evaluating the Model
 
