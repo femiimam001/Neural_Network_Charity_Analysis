@@ -34,9 +34,17 @@ Technologies:Matplotlib,visual studio code,python tensorflow library,pandasand n
 
 ![Ein_name](https://github.com/femiimam001/Neural_Network_Charity_Analysis/blob/main/Resources/Ein_name.PNG)
 
-# Compiling, Training, and Evaluating the Model
+4. # Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 In the optimized model, layer 1 started with 120 neurons with a relu activation. For layer 2, it dropped to 80 neurons and continued with the relu activation. From there, the sigmoid activation seemed to be the better fit for layers 3 (40 neurons) and layer 4 (20 neurons).
 
 ![Optimized_neural_model](https://github.com/femiimam001/Neural_Network_Charity_Analysis/blob/main/Resources/Optimized_neural_model.PNG)
+
+5. Were you able to achieve the target model performance?
+   The target for the model was 75%, but the best the model could produce was 72.7%.
+
+6. What steps did you take to try and increase model performance?
+   Columns were reviewed and the STATUS and SPECIAL_CONSIDERATIONS columns were dropped as well as increasing the number of neurons and layers. Other activations were tried such as tanh, but the range that model produced went from 40% to 68% accuracy. The linear activation produced the worst accuracy, around 28%. The relu activation at the early layers and sigmoid activation at the latter layers gave the best results.
+
+   ![target_model_performance]()
